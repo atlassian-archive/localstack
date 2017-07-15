@@ -1,1 +1,1 @@
-**Please refer to the contribution guidelines in the README when submitting PRs.**
+**Please do NOT raise pull requests against this repository. See README for details.**
