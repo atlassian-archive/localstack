@@ -1,3 +1,17 @@
+# Please Note: Repository Inactive
+
+**This repository is no longer actively maintained. LocalStack has been forked and is now maintained in a new location:**
+
+**https://github.com/localstack/localstack**
+
+Please do *not* create pull requests against this repository. Thanks
+
+
+***
+
+Below is a copy of the original README.
+
+***
 [![Build Status](https://travis-ci.org/localstack/localstack.png)](https://travis-ci.org/localstack/localstack)
 [![Coverage Status](https://coveralls.io/repos/github/atlassian/localstack/badge.svg?branch=master)](https://coveralls.io/github/atlassian/localstack?branch=master)
 [![PyPI Version](https://badge.fury.io/py/localstack.svg)](https://badge.fury.io/py/localstack)
