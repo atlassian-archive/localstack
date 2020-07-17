@@ -362,7 +362,7 @@ Please note that we need to collect a signed **Contributors License Agreement** 
 individual developer who contributes code to this repository. Please refer to the following links:
 
 * [https://developer.atlassian.com/opensource/](https://developer.atlassian.com/opensource/)
-* [https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3f94fbdc-2fbe-46ac-b14c-5d152700ae5d](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3f94fbdc-2fbe-46ac-b14c-5d152700ae5d)
+* [https://opensource.atlassian.com/cla](https://opensource.atlassian.com/cla)
 
 ## License
 
